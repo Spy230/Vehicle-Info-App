@@ -42,4 +42,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone 
+   git clone https://github.com/Spy230/dz6_module_2/tree/master
